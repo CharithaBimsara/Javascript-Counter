@@ -4,7 +4,7 @@ A simple counter application built using **HTML, CSS, and JavaScript**. This app
 
 ## Demo
 
-[Live Demo](https://charithabimsara.github.io/Color-Flipper---JS/)
+[Live Demo](https://charithabimsara.github.io/Javascript-Counter/)
 
 ## 📌 Features
 - 🟢 Increase the counter value
